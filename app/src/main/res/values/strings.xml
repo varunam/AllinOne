@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AllinOne</string>
+    <string name="title_activity_temp_control_all">TempControlAll</string>
+    <string name="TempControlAll">Temperature Coverter</string>
+    <string name="C">Celcius</string>
+    <string name="F">Fahrenheit</string>
+    <string name="K">Kelvin</string>
+    <string name="title_activity_cto_f">CtoF</string>
+</resources>

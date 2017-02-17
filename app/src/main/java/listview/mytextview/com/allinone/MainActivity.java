@@ -70,6 +70,7 @@ public class MainActivity extends AppCompatActivity {
                         thirdIntent.setData(Uri.parse("https://www.facebook.com/varun.gupta.148"));
                         startActivity(thirdIntent);
                         break;
+                    //one line comment
                     default:
                         //String text = listview.getItemAtPosition(intposition).toString();
                         //the above line of code displays the string given to item
